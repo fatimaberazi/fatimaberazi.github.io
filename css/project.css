@@ -1,0 +1,10 @@
+
+
+
+.ribbon {
+    position: fixed !important;
+    right: 50px;
+    top: 0px;
+    overflow: hidden;
+    z-index: 200;
+}
