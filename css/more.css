@@ -1,0 +1,19 @@
+.marginTop{
+	font-family: 'Prociono', serif;
+	color: #0c0c0c;
+}
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+
+h1 { 
+	font-family: 'Fredericka the Great', cursive;
+
+	color: black;
+	border-right: .1em solid black;
+	width: calc(0.55em * 14); 
+	width: 44ch;
+	white-space: nowrap;
+	overflow: hidden;
+	-webkit-animation: typing 8s steps(14, end),
+	blink-caret .5s step-end infinite alternate;
+}

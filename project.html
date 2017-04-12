@@ -7,6 +7,8 @@
 
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Ewert" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<script src="js/jquery-3.1.1.min.js"></script>
 	<script src="js/project.js"></script>
@@ -21,7 +23,7 @@
 				
 			</div>
 
-						<!-- Collect the nav links, forms, and other content for toggling -->
+			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav">
 					<li ><a href="index.html">HOME</a></li>
@@ -35,28 +37,36 @@
 					<li class="active"><a href="project.html">PROJECTS</a></li>
 					<li><a href="more.html">MORE</a></li>
 				</ul>
-						
+				
 				
 			</div><!-- /.navbar-collapse -->
 		</div><!-- /.container-fluid -->
 
 	</nav>
-	<img class="ribbon" src="http://lauramarchbanks.com/wp-content/uploads/2016/02/mintjulep_weclome-flag.png">
-<div class="row">
-			<div class="col-md-6">
-			   <button id='current-btn' class='marginTop-projects'>Current Repos</button>
-			   <ul id='repos' class='marginTop-projects'></ul></div>
-			<div class="col-md-6">
-			<button id='favourite-btn' class='marginTop-projects'>Favorite Repos</button>
-				 <ul id='favourite-repos' class='marginTop-projects'>
-					 <li><a href='https://github.com/fatimaberazi/re-coded-js-02' >Recoded First Challenge </a></li>
-					 <li><a href="https://github.com/fatimaberazi/re-coded-js-01">Recoded Challenge </a></li>
-					 <li><a href='https://github.com/fatimaberazi/oo-banking-re-coded-000' >oo-banking</a></li>
-					 <li><a href='https://github.com/fatimaberazi/ruby-super-inheritance-lab-re-coded-000' >super-inheritance</a> </li>
-					<li><a href='https://github.com/fatimaberazi/oo-inheritance-code-along-re-coded-000' >oo-inheritance-code-along </a></li>
-				 </ul>
-			</div>
+	<div class="col-md-6 col-sm-6">
+		<!-- <button id='current-btn' class='marginTop-projects'>Current Repos</button> -->
+		<div  id='current-btn' class='marginTop-projects   center ' >
+			<img style='width:150px;height:150px;' src='images/current.png' />
+			<h4 style='position: relative;text-align: center' >Current</h4>
 		</div>
+		<ul id='repos' class='marginTop-projects'></ul>
 	</div>
+	<div class="col-md-6 col-sm-4">
+<!-- 			
+	<button id='favourite-btn' class='marginTop-projects'>Favorite Repos</button> -->
+	<div  id='favourite-btn' class='marginTop-projects  center' >
+		<img style='width:150px;height:150px;' src='images/favourite.png' />
+		<h4 style='position: relative;text-align: center' >Favourite</h4>
+	</div>
+	<div id='favourite-repos' class='marginTop-projects'>
+		<a href='https://github.com/fatimaberazi/re-coded-js-02' > ☯ Recoded First Challenge </a><br><br>
+		<a href="https://github.com/fatimaberazi/re-coded-js-01"> ☯ Recoded Challenge </a><br><br>
+		<a href='https://github.com/fatimaberazi/oo-banking-re-coded-000' > ☯ oo-banking</a><br><br>
+		<a href='https://github.com/fatimaberazi/ruby-super-inheritance-lab-re-coded-000' >☯ super-inheritance</a> <br><br>
+		<a href='https://github.com/fatimaberazi/oo-inheritance-code-along-re-coded-000' >☯ oo-inheritance-code-along </a><br><br>
+	</ul>
+</div>
+</div>
+</div>
 </body>
 </html>
