@@ -1,42 +1,37 @@
-{"skills":[
-	{
-		"name":"Ruby",
-		"description":""
-	},
-	{
-		"name":"AngularJS",
-		"description":""
-	},
-	{
-		"name":"JavaScript",
-		"description":""
-	}
 {
-		"name":" jQuery",
-		"description":""
-	}
-	{
-		"name":"HTML5",
-		"description":""
-	}
-	{
-		"name":" CSS",
-		"description":""
-	}
-	{
-		"name":"GitHub",
-		"description":""
-	}
-	{
-		"name":"AJAX",
-		"description":""
-	}
-	{
-		"name":"JavaScript",
-		"description":""
-	}
-	{
-		"name":"JavaScript",
-		"description":""
-	}
-]}
+	"skills":
+	[
+		{
+			"name":"Ruby",
+			"description":""
+		},
+		{
+			"name":"AngularJS",
+			"description":""
+		},
+		{
+			"name":"JavaScript",
+			"description":""
+		},
+		{
+			"name":" jQuery",
+			"description":""
+		},
+		{
+			"name":"HTML5",
+			"description":""
+		},
+		{
+			"name":" CSS",
+			"description":""
+		},
+		{
+			"name":"GitHub",
+			"description":""
+		},
+		{
+			"name":"AJAX",
+			"description":""
+		}
+	]
+}
