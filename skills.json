@@ -3,35 +3,31 @@
 	[
 		{
 			"name":"Ruby",
-			"description":""
-		},
-		{
-			"name":"AngularJS",
-			"description":""
+			"description":"a programming language from Japan (available at ruby-lang.org) which is revolutionizing the web. The beauty of Ruby is found in its balance between simplicity and power."
 		},
 		{
 			"name":"JavaScript",
-			"description":""
+			"description":"is a high-level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification."
 		},
 		{
 			"name":" jQuery",
-			"description":""
+			"description":" is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers."
 		},
 		{
 			"name":"HTML5",
-			"description":""
+			"description":"is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current version of the HTML standard."
 		},
 		{
 			"name":" CSS",
-			"description":""
+			"description":" is a style sheet language used for describing the presentation of a document written in a markup language."
 		},
 		{
-			"name":"GitHub",
-			"description":""
+			"name":"API",
+			"description":"a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service."
 		},
 		{
 			"name":"AJAX",
-			"description":""
+			"description":"short for asynchronous JavaScript and XML) is a set of Web development techniques using many Web technologies on the client side to create asynchronous Web applications."
 		}
 	]
 }

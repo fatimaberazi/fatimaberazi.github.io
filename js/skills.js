@@ -12,7 +12,8 @@ function makeAjaxRequest(){
 		var html=''
 		$.each(data.skills,function(key,v){
            
-			html+=`<h3>${v.name}</h3>`
+			html+=`<div class='col-md-4'><h4>${v.name}</h4>
+			        <p>${v.description}</p></div>`
 			
 		})
 		$('#result').html(html)
