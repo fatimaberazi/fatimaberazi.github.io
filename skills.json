@@ -5,13 +5,14 @@
 			"name":"Ruby",
 			"description":"a programming language from Japan (available at ruby-lang.org) which is revolutionizing the web. The beauty of Ruby is found in its balance between simplicity and power."
 		},
+		
 		{
 			"name":"JavaScript",
 			"description":"is a high-level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification."
 		},
 		{
 			"name":" jQuery",
-			"description":" is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers."
+			"description":" is a fast, small, and feature-rich JavaScript library.with an easy-to-use API that works across a multitude of browsers."
 		},
 		{
 			"name":"HTML5",
